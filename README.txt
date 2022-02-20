@@ -25,6 +25,6 @@ matplotlib-it is used in order to plot our taining curves.
 scipy
 
 Following is the explanations of the files in project:
-Dataset folder(data.zip, data.z01, data.z02, data.z03, data.z04, data.z05, data.z06)-contains all data that is used.
-   training.py is the file where code is written to train the machine to perform the necessary task.
- video_stream.py is the file which contains codes which will eventually help in running our  task.
+    Dataset folder(data.zip, data.z01, data.z02, data.z03, data.z04, data.z05, data.z06)-contains all data that is used.
+    training.py is the file where code is written to train the machine to perform the necessary task.
+    video_stream.py is the file which contains codes which will eventually help in running our  task.
